@@ -1,2 +1,21 @@
 @charset "UTF-8";
 
+.content{
+  height: 500px;
+}
+
+.image{
+  background: url(file:///C:/Users/%E3%81%AA%E3%81%AA%E3%81%BF/Desktop/LayoutParts-Part2/q8/image/coffee-background.jpg)
+}
+
+.image-repeat{
+  background: url(file:///C:/Users/%E3%81%AA%E3%81%AA%E3%81%BF/Desktop/LayoutParts-Part2/q8/image/coffee-background.jpg) no-repeat;
+}
+
+.image-center{
+  background: url(file:///C:/Users/%E3%81%AA%E3%81%AA%E3%81%BF/Desktop/LayoutParts-Part2/q8/image/coffee-background.jpg) no-repeat center/cover;
+}
+
+.image-all{
+  background: url(file:///C:/Users/%E3%81%AA%E3%81%AA%E3%81%BF/Desktop/LayoutParts-Part2/q8/image/coffee-background.jpg) no-repeat center/contain;
+}
