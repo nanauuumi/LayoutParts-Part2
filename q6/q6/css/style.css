@@ -30,11 +30,6 @@ a{
   justify-content: space-between;
 }
 
-.nav{
-  display: flex;
-  justify-content: space-between;
-}
-
 .nav li{
   list-style: none;
   padding: 30px;
